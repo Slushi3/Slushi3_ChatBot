@@ -4,6 +4,11 @@ Welcome, User. You have accessed the repository for the Slushi3 AI Terminal.
 This is an ESP32-powered gateway connected directly to the Gemini 2.5 Flash API.
 
 ---
+### AETHETICS
+Recycled and reused old friends vape 
+
+ ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/86099f494f531f1b127d28e5928a7f8d51de197b/IMG2.jpeg)
+ ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/86099f494f531f1b127d28e5928a7f8d51de197b/IMG4.jpeg)
 
 ### 🟢 CORE ARCHITECTURE (HARDWARE)
 The system is built on low-level hardware designed for portable neural link operations.
@@ -35,9 +40,11 @@ The system supports three distinct UI layers for environment adaptation:
 
 1.  **MATRIX TERMINAL (PREMIUM):** The classic green-on-black hacker aesthetic. Default protocol.
     ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/94fb0fa6a33df066f622bd0a843b611e96f61f89/Screenshot%202026-02-10%20133103.png)
+    
 3.  **NEON EMERALD (PREMIUM):** High-contrast modern green gradient interface.
     ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/94fb0fa6a33df066f622bd0a843b611e96f61f89/Screenshot%202026-02-10%20133526.png)
-4.  **VIOLET VORTEX (FREE):** Sleek purple/blue deep-space aesthetic.
+    
+5.  **VIOLET VORTEX (FREE):** Sleek purple/blue deep-space aesthetic.
     ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/346d9561f3d2c4ee18c2b6fee2f0637420b9f715/Screenshot%202026-02-10%20132722.png)
 
 > [!IMPORTANT]  
