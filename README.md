@@ -32,8 +32,10 @@ To establish a physical link, ensure your wiring matches the following encrypted
 The system supports three distinct UI layers for environment adaptation:
 
 1.  **MATRIX TERMINAL (PREMIUM):** The classic green-on-black hacker aesthetic. Default protocol.
-2.  **NEON EMERALD (PREMIUM):** High-contrast modern green gradient interface.
-3.  **VIOLET VORTEX (FREE):** Sleek purple/blue deep-space aesthetic.
+    ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/94fb0fa6a33df066f622bd0a843b611e96f61f89/Screenshot%202026-02-10%20133103.png)
+3.  **NEON EMERALD (PREMIUM):** High-contrast modern green gradient interface.
+    ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/94fb0fa6a33df066f622bd0a843b611e96f61f89/Screenshot%202026-02-10%20133526.png)
+4.  **VIOLET VORTEX (FREE):** Sleek purple/blue deep-space aesthetic.
     ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/346d9561f3d2c4ee18c2b6fee2f0637420b9f715/Screenshot%202026-02-10%20132722.png)
 
 > [!IMPORTANT]  
