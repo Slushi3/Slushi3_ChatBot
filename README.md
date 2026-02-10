@@ -33,14 +33,14 @@ To establish a physical link, ensure your wiring matches the following encrypted
 ### 🎨 VISUAL INTERFACE THEMES
 The system supports three distinct UI layers for environment adaptation:
 
-1.  **MATRIX TERMINAL (FREE):** The classic green-on-black hacker aesthetic. Default protocol.
+1.  **MATRIX TERMINAL (PREMIUM):** The classic green-on-black hacker aesthetic. Default protocol.
 2.  **NEON EMERALD (PREMIUM):** High-contrast modern green gradient interface.
-3.  **VIOLET VORTEX (PREMIUM):** Sleek purple/blue deep-space aesthetic.
+3.  **VIOLET VORTEX (FREE):** Sleek purple/blue deep-space aesthetic.
 
 > [!IMPORTANT]  
-> **The Matrix Terminal theme is included in this build.**
-> To unlock the **Neon Emerald** or **Violet Vortex** visual protocols, you must request an authorization key.
-> **CONTACT:** [Insert Your Email Here]
+> **The VIOLET VORTEX theme is included in this build.**
+> To unlock the **Neon Emerald** or **MATRIX TERMINAL** visual protocols, you must request an authorization key.
+> **CONTACT:** [@e.llllx]
 
 ---
 
