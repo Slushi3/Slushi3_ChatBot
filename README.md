@@ -8,7 +8,6 @@ This is an ESP32-powered gateway connected directly to the Gemini 2.5 Flash API.
 Recycled and reused old friends vape 
 
  ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/86099f494f531f1b127d28e5928a7f8d51de197b/IMG2.jpeg)
- ![image alt](https://github.com/Slushi3/Slushi3_ChatBot/blob/86099f494f531f1b127d28e5928a7f8d51de197b/IMG4.jpeg)
 
 ### 🟢 CORE ARCHITECTURE (HARDWARE)
 The system is built on low-level hardware designed for portable neural link operations.
