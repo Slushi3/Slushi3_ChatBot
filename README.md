@@ -23,6 +23,8 @@ To establish a physical link, ensure your wiring matches the following encrypted
 | :--- | :--- | :--- |
 | **OLED SDA** | GPIO 21 | DATA |
 | **OLED SCL** | GPIO 22 | CLOCK |
+| **OLED VCC** | 3V3 | - |
+| **OLED GND** | GND | - |
 | **BATTERY (+)** | VIN | TP4056 OUT+ |
 | **BATTERY (-)** | GND | TP4056 OUT- |
 
