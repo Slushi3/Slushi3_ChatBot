@@ -34,6 +34,7 @@ The system supports three distinct UI layers for environment adaptation:
 1.  **MATRIX TERMINAL (PREMIUM):** The classic green-on-black hacker aesthetic. Default protocol.
 2.  **NEON EMERALD (PREMIUM):** High-contrast modern green gradient interface.
 3.  **VIOLET VORTEX (FREE):** Sleek purple/blue deep-space aesthetic.
+    ![image alt] (https://github.com/Slushi3/Slushi3_ChatBot/blob/346d9561f3d2c4ee18c2b6fee2f0637420b9f715/Screenshot%202026-02-10%20132722.png)
 
 > [!IMPORTANT]  
 > **The VIOLET VORTEX theme is included in this build.**
