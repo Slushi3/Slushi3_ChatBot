@@ -1,9 +1,7 @@
-# ⚡ NEURAL INTERFACE: SLUSHI3.AI // ESP32 CORE
-> ACCESSING SYSTEM DATA... [OK]
-> INITIALIZING HACKER_THEME... [OK]
+# ⚡SLUSHI3.AI // ESP32 CORE
 
 Welcome, User. You have accessed the repository for the Slushi3 AI Terminal. 
-This is an ESP32-powered neural gateway connected directly to the Gemini 2.5 Flash API.
+This is an ESP32-powered gateway connected directly to the Gemini 2.5 Flash API.
 
 ---
 
